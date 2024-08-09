@@ -1,0 +1,125 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "NewsletterSimpleSideBySide"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletter"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "FaqsCenteredAccordion"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "CtaSimpleJustified"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "minimal",
+  "title": "Drive with Distinction: Premium Car Rentals for the Creative Minds",
+  "subtitle": "Experience superior design and unparalleled service for your journey. Rent the perfect car crafted with elegance and creativity."
+}
